@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
         appBar: AppBar(
           backgroundColor: Colors.teal,
           title: Text(
-            "Veterinaria Monje 0509",
+            "Veterinaria Monge 0509",
             style: TextStyle(color: Colors.white, fontWeight: FontWeight.w500),
           ),
         ),
