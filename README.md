@@ -1,4 +1,4 @@
-# UIIAct8 Monje 0509
+# UIIAct8 Monge 0509
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -13,7 +13,10 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## links de referencia
+https://youtu.be/-RK6Nnjkpn8?si=FiTgC2BRrOa-Co28
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Imagenes
+![image](https://github.com/YizziaA/act8Tabbar/assets/143548810/4a1ff05a-003f-448a-8e8b-31a1eedcf974)
+![image](https://github.com/YizziaA/act8Tabbar/assets/143548810/fb55e3f8-9cc1-4a9b-8436-336f2734e5cd)
+![image](https://github.com/YizziaA/act8Tabbar/assets/143548810/ba05157d-4fdc-4fcb-aabb-00886a779357)
